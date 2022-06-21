@@ -21,7 +21,7 @@ jobs:
       - run:
           name: lasut
           command: |
-            sleep 5s
+            sleep 5s && echo finis
 
 
 
